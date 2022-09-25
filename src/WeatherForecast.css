@@ -1,0 +1,16 @@
+.WeatherForecast-temp-min {
+  opacity: 0.6;
+  margin-left: 3px;
+}
+
+.WeatherForecast-day {
+  margin: 10px;
+}
+
+.forecast-icon {
+  margin-left: 28px;
+}
+
+.forecast-card {
+  text-align: center;
+}
